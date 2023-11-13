@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[],
     entry_points={},
-    author='Nicolas Livenson & Sanon Jean Duckens',
+    author='Nicolas Livenson && Sannon Jean Duckens',
     author_email='nicolaslivenson@gmail.com',
     description='Un générateur de mots de passe simple',
     long_description='Un package Python pour générer des mots de passe aléatoires.',
@@ -26,7 +26,7 @@ setup(
     
     authors=[
         'Nicolas Livenson',
-        'Sanon Jean Duckens',
+        'Sannon Jean Duckens',
         
     ],
 )
