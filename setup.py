@@ -10,7 +10,7 @@ setup(
     author_email='nicolaslivenson@gmail.com',
     description='Un générateur de mots de passe simple',
     long_description='Un package Python pour générer des mots de passe aléatoires.',
-    url='https://github.com/votreutilisateur/passwordgenerator',
+    url='https://github.com/livens-coder/passwordgenerator',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
